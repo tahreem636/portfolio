@@ -65,3 +65,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Thank you for checking out my portfolio. I hope it gives you insight into my work and skills as a web developer. Feel free to reach out if you'd like to collaborate or discuss potential opportunities.
 
+![Image](https://github.com/user-attachments/assets/daf94851-b4f4-414c-8f4f-a6a50f350fe9)
+
+![Image](https://github.com/user-attachments/assets/cc69ed15-16bb-4225-8423-496ee1dd1e75)
+
+![Image](https://github.com/user-attachments/assets/0aa9696c-ac1a-40e4-96dc-3402a35a02b6)
