@@ -8,15 +8,12 @@ This is a **responsive personal portfolio** that highlights my skills, projects,
 
 The website is divided into the following sections:
 1. **About Me**: A brief introduction about who I am and what I do.
-2. **Projects**: Showcasing some of my web development projects.
-3. **Contact**: A contact form for visitors to get in touch.
+2. **Contact**: A contact form for visitors to get in touch.
 
 ## Technologies Used
 
 - **HTML5**: Structure and content of the portfolio.
 - **CSS3**: Styling and responsive design.
-- **JavaScript**: Basic form handling and interactivity.
-- **Responsive Design**: The website adjusts to different screen sizes using media queries for mobile, tablet, and desktop devices.
 
 ## Features
 
@@ -28,7 +25,7 @@ The website is divided into the following sections:
 ## How to Use
 
 ### Prerequisites:
-- To view the website, simply open the `index.html` file in any modern web browser.
+- To view the website, simply open the `Home.html` file in any modern web browser.
   
 ### Steps to Run Locally:
 1. Clone the repository to your local machine:
@@ -44,9 +41,8 @@ The website is divided into the following sections:
 The website will automatically be ready to use. No additional configuration is required.
 
 ### Folder Structure:
-- `index.html`: Main HTML file containing the structure of the portfolio.
+- `home.html`: Main HTML file containing the structure of the portfolio.
 - `style.css`: Stylesheet that controls the design and layout of the website.
-- `script.js`: JavaScript file for handling basic interactivity, such as form submission.
 - `images/`: Contains the images used for the profile, projects, and favicon.
 
 ## Contact
@@ -64,9 +60,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Thank you for checking out my portfolio. I hope it gives you insight into my work and skills as a web developer. Feel free to reach out if you'd like to collaborate or discuss potential opportunities.
-
-![Image](https://github.com/user-attachments/assets/daf94851-b4f4-414c-8f4f-a6a50f350fe9)
-
-![Image](https://github.com/user-attachments/assets/cc69ed15-16bb-4225-8423-496ee1dd1e75)
-
-![Image](https://github.com/user-attachments/assets/0aa9696c-ac1a-40e4-96dc-3402a35a02b6)
